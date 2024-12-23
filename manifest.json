@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Miope",
-  "version": "1.0",
+  "version": "1.2",
   "description": "Toggle a blur overlay to the page when the extension icon is clicked.",
   "permissions": ["activeTab", "scripting"],
   "icons": {

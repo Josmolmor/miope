@@ -15,7 +15,7 @@ function createBlurOverlay() {
     backgroundColor: "rgba(0, 0, 0, 0.5)",
     backdropFilter: "blur(6px)",
     WebkitBackdropFilter: "blur(8px)",
-    zIndex: "9999",
+    zIndex: "10000005",
     transition: "opacity 0.3s ease",
   });
 
